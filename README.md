@@ -2,7 +2,7 @@
 
 Skrip CLI PHP untuk men-scrape attempt quiz Moodle, mengekstrak soal/jawaban, men-download gambar, membuat gallery & laporan, dan (opsional) mengirim soal ke layanan generative API.
 
-Repository: https://github.com/RasZRengokai/E-LEARNING-QUESTION-SCRAPER
+Repository: https://github.com/FuumaXyz/E-LEARNING-QUESTION-SCRAPER.git
 
 ✨ Fitur Utama
 
@@ -53,7 +53,7 @@ Repository: https://github.com/RasZRengokai/E-LEARNING-QUESTION-SCRAPER
 pkg update -y && pkg upgrade -y
 pkg install git -y
 pkg install php -y
-git clone https://github.com/RasZRengokai/E-LEARNING-QUESTION-SCRAPER.git
+git clone https://github.com/FuumaXyz/E-LEARNING-QUESTION-SCRAPER.git
 cd E-LEARNING-QUESTION-SCRAPER
 php elearning.php
 ```
@@ -68,7 +68,7 @@ Ikuti menu interaktif → masukkan attempt ID, cmid, pilih opsi ekstraksi/downlo
 ---
 
 📄 LISENSI
-Hak Cipta © 2025 RasZRengokai
+Hak Cipta © 2025 FuumaXyz
 
 Tools ini dirilis hanya untuk tujuan edukasi. Pengguna bertanggung jawab penuh atas segala penggunaan.
 
@@ -108,4 +108,4 @@ Dengan menggunakan tools ini, Anda menyetujui:
 
 ---
 
-© 2025 RasZRengokai - Happy Learning! 🎓
+© 2025 FuumaXyz - Happy Learning! 🎓
