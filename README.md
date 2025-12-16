@@ -67,9 +67,6 @@ Ikuti menu interaktif → masukkan attempt ID, cmid, pilih opsi ekstraksi/downlo
 
 ---
 
-📄 LISENSI
-Hak Cipta © 2025 Fuuma
-
 Tools ini dirilis hanya untuk tujuan edukasi. Pengguna bertanggung jawab penuh atas segala penggunaan.
 
 ✅ DIPERBOLEHKAN:
