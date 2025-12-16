@@ -47,25 +47,20 @@ Repository: https://github.com/FuumaXyz/E-LEARNING-QUESTION-SCRAPER.git
 
 ---
 
-⚡ Quick start (3 langkah)
+⚡ CARA INSTALL (2 langkah)
 1. Clone repo:
 ```bash
-- installasi
 pkg update -y && pkg upgrade -y
 pkg install git -y
 pkg install php -y
 git clone https://github.com/FuumaXyz/E-LEARNING-QUESTION-SCRAPER.git
+```
 
-- cara menjalankan 
+2. RUN script:
+```bash
 cd E-LEARNING-QUESTION-SCRAPER
 php elearning.php
 ```
-
-2. Siapkan credential lokal:
-- Simpan cookie sesi Moodle ke file bernama `Cookie`  
-- Simpan User-Agent string ke file `user-agent`  
-- (Opsional) Simpan API key Generative API ke `DATABASE_api.txt` (jangan commit)
-
 Ikuti menu interaktif → masukkan attempt ID, cmid, pilih opsi ekstraksi/download gambar/dll.
 
 ---
