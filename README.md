@@ -50,10 +50,13 @@ Repository: https://github.com/FuumaXyz/E-LEARNING-QUESTION-SCRAPER.git
 ⚡ Quick start (3 langkah)
 1. Clone repo:
 ```bash
+- installasi
 pkg update -y && pkg upgrade -y
 pkg install git -y
 pkg install php -y
 git clone https://github.com/FuumaXyz/E-LEARNING-QUESTION-SCRAPER.git
+
+- cara menjalankan 
 cd E-LEARNING-QUESTION-SCRAPER
 php elearning.php
 ```
