@@ -68,7 +68,7 @@ Ikuti menu interaktif → masukkan attempt ID, cmid, pilih opsi ekstraksi/downlo
 ---
 
 📄 LISENSI
-Hak Cipta © 2025 FuumaXyz
+Hak Cipta © 2025 Fuuma
 
 Tools ini dirilis hanya untuk tujuan edukasi. Pengguna bertanggung jawab penuh atas segala penggunaan.
 
@@ -108,4 +108,4 @@ Dengan menggunakan tools ini, Anda menyetujui:
 
 ---
 
-© 2025 FuumaXyz - Happy Learning! 🎓
+© 2025 Fuuma - Happy Learning! 🎓
