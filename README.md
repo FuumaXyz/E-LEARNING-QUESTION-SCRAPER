@@ -53,6 +53,7 @@ Repository: https://github.com/FuumaXyz/E-LEARNING-QUESTION-SCRAPER.git
 pkg update -y && pkg upgrade -y
 pkg install git -y
 pkg install php -y
+termux-setup-storage
 git clone https://github.com/FuumaXyz/E-LEARNING-QUESTION-SCRAPER.git
 ```
 
